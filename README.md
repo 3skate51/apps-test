@@ -65,8 +65,8 @@ const dev = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=4dab84)](www.linkedin.com/in/jorge-marskell-7a16942b0)
 [![Gmail](https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=4dab84)](mailto:jorgemarskell1@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=4dab84)](https://jorgemarskell.netlift.app)
-[![Discord](https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=4dab84)](https://discord.com/users/rickw_dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=4dab84)](https://jorgemarskell.netlify.app/)
+[![Discord](https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=4dab84)](https://discord.gg/rzR7yVrYFw)
 [![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=4dab84)](https://www.instagram.com/jorge_marskell1/)
 
 </div>
